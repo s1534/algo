@@ -258,9 +258,6 @@ def OX_method():
 
     parent = copy.deepcopy(next_idenshi)
 
-    # print("--------------一度親の確認---------------")
-    # print(parent[0])
-    # print(parent[1])
 
     for i in range(0, int(kotai*kousa_rate), 2):
     # for i in range(1):
