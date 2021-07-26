@@ -6,4 +6,4 @@ GA使ってMcCormick関数の最小値求める
 # kadai3
 GA使ってTSP解く
 # kadai4
-PSO使ってTSP解く
+TSP向けのpso改良手法使って頑張る
